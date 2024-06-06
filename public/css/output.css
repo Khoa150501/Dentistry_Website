@@ -554,9 +554,8 @@ video {
   --tw-contain-style:  ;
 }
 
-.bg-green-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(74 222 128 / var(--tw-bg-opacity));
+.border {
+  border-width: 1px;
 }
 
 .text-center {
